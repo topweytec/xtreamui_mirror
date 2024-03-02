@@ -242,9 +242,8 @@ if __name__ == "__main__":
 
     printc("XtreamUI-master - TopWey Streaming", col.OKGREEN, 2)
     print "%s │ Canais + Filmes + Series. %s" % (col.OKGREEN, col.ENDC)
-    print "%s │ Montamos Servidor e Instalamos Paineis %s" % (col.OKGREEN, col.ENDC)
-    print "%s │ Para mais informações visite-nos no Telegram / https://t.me/+r_nqbCISB3hhYTYx %s" % (col.OKGREEN, col.ENDC)
-    print "%s │ TopWey_Streaming!!! %s" % (col.OKGREEN, col.ENDC)
+    print "%s │ Informações visite-nos no Telegram %s" % (col.OKGREEN, col.ENDC)
+    print "%s │ Telegram: https://t.me/+r_nqbCISB3hhYTYx %s" % (col.OKGREEN, col.ENDC)
     print " "
     rType = raw_input("  Installation Type [MAIN, LB]: ")
     print " "
