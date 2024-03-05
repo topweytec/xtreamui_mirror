@@ -240,7 +240,7 @@ if __name__ == "__main__":
         printc("Unsupported Operating System, Works only on Ubuntu Server 16 and 18")
         sys.exit(1)
 
-    printc("XtreamUI-master - TopWey Streaming", col.OKGREEN, 2)
+    printc("Xtream UI - Master - TopWey Streaming", col.OKGREEN, 2)
     print "%s │ Canais + Filmes + Series. %s" % (col.OKGREEN, col.ENDC)
     print "%s │ Informações visite-nos no Telegram %s" % (col.OKGREEN, col.ENDC)
     print "%s │ Telegram: https://t.me/+r_nqbCISB3hhYTYx %s" % (col.OKGREEN, col.ENDC)
